@@ -1,1 +1,1 @@
-CareerGuidanceForEnrollees
+API сервиса для профориентации абитуриентов
